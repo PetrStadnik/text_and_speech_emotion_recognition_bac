@@ -12,8 +12,6 @@ This repository contains following files:
 * wav2vec2.py Python script for ehcalabres wav2vec2 model testing.
 * hubert.py Python script for s3prl hubert model testing
 * my_w2v2.py Python script for my wav2vec model training and testing
-  * support_vectors.joblib Trained classifier on CREMA-D dataset.
-  * norm_support_vectors.joblib Trained classifier on normalized CREMA-D dataset.
 
 * process_chain.py Python class including fusion of text and speech model.
 
